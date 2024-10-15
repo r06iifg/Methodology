@@ -53,3 +53,5 @@ SQL Map:sqlmap -u
 Wayback Url: https://web.archive.org
 
 Cyberchef : https://gchq.github.io/CyberChef/
+reference : https://pentestbook.six2dez.com
+jwt : Jwt.io
