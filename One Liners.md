@@ -55,3 +55,5 @@ Wayback Url: https://web.archive.org
 Cyberchef : https://gchq.github.io/CyberChef/
 reference : https://pentestbook.six2dez.com
 jwt : Jwt.io
+
+Notion Notes: https://ember-sunday-c9a.notion.site/BSCP-1017bd73434580d6b98fe22fab9560c0?pvs=4
